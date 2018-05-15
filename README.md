@@ -1,2 +1,3 @@
-# BlankTypeScriptNodeProject
- A Blank Typescript Node.js Template 
+# Builder Pattern
+
+A NodeJs Typescript project demonstrating the builder pattern.
